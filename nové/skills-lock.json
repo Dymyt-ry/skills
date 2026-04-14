@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "skills": {
+    "document-pptx": {
+      "source": "vasilyu1983/ai-agents-public",
+      "sourceType": "github",
+      "computedHash": "1f7af9b99c3cb4da06b78e9d568bb6001a88c303b2229bd1c6e9fdc98cd32946"
+    },
+    "paperclip": {
+      "source": "paperclipai/paperclip",
+      "sourceType": "github",
+      "computedHash": "37f0ade75ce6d86353dfa64e67319b4aa5630cbe64915f734723815890ce027b"
+    },
+    "paperclip-ai-orchestration": {
+      "source": "aradotso/trending-skills",
+      "sourceType": "github",
+      "computedHash": "f84c79e795d1b5f5eb5f9171390a7aa5d8dc360ff98e5c1ee8d141844798be02"
+    },
+    "paperclip-create-agent": {
+      "source": "paperclipai/paperclip",
+      "sourceType": "github",
+      "computedHash": "6cf4e0d4a916db5e98782cafd9e0f45e2e8b36b65914b1a3446c1d76b7340d50"
+    },
+    "pitch-deck": {
+      "source": "shawnpang/startup-founder-skills",
+      "sourceType": "github",
+      "computedHash": "058c379ca602fa99232c33695a36e4f05f9d216b35172bb632d6d08a7fbd3ff9"
+    },
+    "pitch-deck-visuals": {
+      "source": "inferen-sh/skills",
+      "sourceType": "github",
+      "computedHash": "b76edbbd1705c5c01729537572e0125fb20347478893b3cb371da1a1d9c747d2"
+    },
+    "playwright-recording": {
+      "source": "digitalsamba/claude-code-video-toolkit",
+      "sourceType": "github",
+      "computedHash": "65dd7d4d2097a5ee137ee9a9ab9ced260d98d8728611fa70c6d8ba7d3c21f1e1"
+    },
+    "presentation-pitch-deck": {
+      "source": "aaronvanston/skills-presentations",
+      "sourceType": "github",
+      "computedHash": "469b3d199650b759392815cd372946ee1d57a0278e8d575c9afe5dc30b685e9f"
+    },
+    "screenshot": {
+      "source": "openai/skills",
+      "sourceType": "github",
+      "computedHash": "2dc50b3537ea27a1020a660ff17f12860f6ad05bcf40539165eb4655e5010d73"
+    },
+    "social-content": {
+      "source": "coreyhaines31/marketingskills",
+      "sourceType": "github",
+      "computedHash": "85ffbc05cf88939ba3ff643a315928185af16181470349dfbaad2880047c9900"
+    },
+    "tiktok-captions": {
+      "source": "kostja94/marketing-skills",
+      "sourceType": "github",
+      "computedHash": "206bcd1f033c39c3398ad059d49726e55477563ad9278584278280de5fc57e00"
+    }
+  }
+}
